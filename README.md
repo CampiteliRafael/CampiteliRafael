@@ -59,7 +59,7 @@ Um sistema full-stack onde usuários podem se registrar/logar (via JWT) para env
 ## 🌱 Atualmente Aprendendo / Próximos Passos
 
 * Aprofundando em testes de frontend com React Testing Library e MSW.
-* Explorando [Outra Tecnologia ou Conceito, ex: Docker, GraphQL, Next.js, CI/CD].
+* Explorando Outras Tecnologias, ex: Docker, GraphQL, Next.js, CI/CD.
 * Buscando oportunidades para aplicar e expandir minhas habilidades!
 
 ---
