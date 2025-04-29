@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou [Seu Nome / Seu Usuário GitHub]
+# Olá! 👋 Eu sou Rafael Campiteli Pereira / [ Seu Usuário GitHub](https://github.com/CampiteliRafael/)]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil-linkedin/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat)](https://seu-portfolio.com) Sou um Desenvolvedor Full-Stack apaixonado por criar soluções web completas, desde interfaces de usuário interativas e responsivas até APIs robustas e seguras no backend. Gosto de trabalhar com tecnologias modernas e focar em código limpo e testável.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat&logo=linkedin)](linkedin.com/in/rafael-campiteli-pereira-033537240/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat)](https://seu-portfolio.com) Sou um Desenvolvedor Full-Stack apaixonado por criar soluções web completas, desde interfaces de usuário interativas e responsivas até APIs robustas e seguras no backend. Gosto de trabalhar com tecnologias modernas e focar em código limpo e testável.
 
 ---
 
