@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Rafael Campiteli Pereira / [ campitelirafael ](https://github.com/CampiteliRafael/)]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat&logo=linkedin)](linkedin.com/in/rafael-campiteli-pereira-033537240/) Sou um Desenvolvedor Full-Stack apaixonado por criar soluções web completas, desde interfaces de usuário interativas e responsivas até APIs robustas e seguras no backend. Gosto de trabalhar com tecnologias modernas e focar em código limpo e testável.
+Sou um Desenvolvedor Full-Stack apaixonado por criar soluções web completas, desde interfaces de usuário interativas e responsivas até APIs robustas e seguras no backend. Gosto de trabalhar com tecnologias modernas e focar em código limpo e testável.
 
 ---
 
