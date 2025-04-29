@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou Rafael Campiteli Pereira / [ Seu Usuário GitHub](https://github.com/CampiteliRafael/)]
+# Olá! 👋 Eu sou Rafael Campiteli Pereira / [ campitelirafael ](https://github.com/CampiteliRafael/)]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat&logo=linkedin)](linkedin.com/in/rafael-campiteli-pereira-033537240/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat)](https://seu-portfolio.com) Sou um Desenvolvedor Full-Stack apaixonado por criar soluções web completas, desde interfaces de usuário interativas e responsivas até APIs robustas e seguras no backend. Gosto de trabalhar com tecnologias modernas e focar em código limpo e testável.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat&logo=linkedin)](linkedin.com/in/rafael-campiteli-pereira-033537240/) Sou um Desenvolvedor Full-Stack apaixonado por criar soluções web completas, desde interfaces de usuário interativas e responsivas até APIs robustas e seguras no backend. Gosto de trabalhar com tecnologias modernas e focar em código limpo e testável.
 
 ---
 
@@ -15,13 +15,15 @@ Com base em projetos recentes como o [Feedback App](#-projeto-em-destaque-feedba
 **Frontend:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=flat&logo=css3&logoColor=white) * Context API (Gerenciamento de Estado)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=flat&logo=css3&logoColor=white) 
+* Context API (Gerenciamento de Estado)
 * HTML5
 
 **Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) (Autenticação/Autorização)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) 
+* (Autenticação/Autorização)
 * API RESTful Design
 * Bcryptjs (Hashing de Senha)
 * Role-Based Access Control (RBAC)
@@ -33,7 +35,8 @@ Com base em projetos recentes como o [Feedback App](#-projeto-em-destaque-feedba
 
 **Testes:**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-E33A5A?style=flat) * React Testing Library (Planejado/Estudando)
+![Supertest](https://img.shields.io/badge/Supertest-E33A5A?style=flat) 
+* React Testing Library (Planejado/Estudando)
 * Testes Unitários & de Integração
 * Mocking (Jest Mocks)
 * MongoDB Memory Server
@@ -46,8 +49,6 @@ Com base em projetos recentes como o [Feedback App](#-projeto-em-destaque-feedba
 ![Dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat) ---
 
 ## 📌 Projeto em Destaque: Feedback App
-
-*(Este é um exemplo de como linkar o projeto que fizemos)*
 
 Um sistema full-stack onde usuários podem se registrar/logar (via JWT) para enviar feedbacks, e administradores podem visualizar todos os feedbacks, aprovar, rejeitar ou deletar, além de ver estatísticas.
 
