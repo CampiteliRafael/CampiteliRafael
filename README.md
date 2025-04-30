@@ -6,7 +6,7 @@ Sou um desenvolvedor web full-stack e gosto muito de construir aplicações comp
 
 ---
 
-## 🚀 Minha Jornada com o "Feedback App" (Um Estudo de Caso)
+## 🚀 Minha Jornada com o "Feedback App"
 
 Recentemente, me dediquei a construir o **[Feedback App]**, um projeto que, apesar de parecer simples no conceito (coletar e gerenciar feedbacks), me proporcionou uma experiência prática valiosa em várias frentes do desenvolvimento full-stack moderno:
 
