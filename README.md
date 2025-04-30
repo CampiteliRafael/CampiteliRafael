@@ -1,69 +1,54 @@
-# Olá! Eu sou [Rafael Campiteli Pereira / campitelirafael] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Olá, eu sou [Rafael Campiteli Pereira / campitelirafael]! 👋
 
-Sou um Desenvolvedor Full-Stack entusiasmado em construir aplicações web completas e funcionais, combinando interfaces de usuário eficazes com lógicas de backend robustas e seguras. Acredito que os desafios técnicos são oportunidades de aprendizado e crescimento, como pude experienciar no desenvolvimento do projeto [Feedback App](#-projeto-em-destaque-feedback-app) detalhado abaixo.
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">
 
----
-
-## 💡 Habilidades e Experiência Prática (Demonstradas no Feedback App)
-
-Este projeto foi uma jornada prática onde pude aplicar e aprofundar conhecimentos em diversas áreas cruciais do desenvolvimento Full-Stack:
-
-* **Desenvolvimento Full-Stack & TypeScript:** Construí do zero tanto o backend (Node.js/Express) quanto o frontend (React/Vite), utilizando **TypeScript** em ambas as pontas para garantir segurança de tipos, facilitar a refatoração e prevenir erros comuns em tempo de desenvolvimento (como os que depuramos com tipos de JWT e configurações de teste).
-
-* **Backend (Node.js & Express):**
-    * Desenvolvi uma **API RESTful** estruturada com padrão similar ao MVC (Models, Routes, Controllers).
-    * Implementei **autenticação segura com JWT** (geração no login/registro, validação via middleware) e hashing de senhas com **bcryptjs**.
-    * Criei **middleware de autorização (RBAC)** para diferenciar permissões entre usuários (`user`) e administradores (`adm`).
-    * Utilizei **Mongoose** para modelagem e interação com banco de dados **MongoDB**, realizando operações CRUD para os feedbacks.
-    * Configurei o ambiente com **`dotenv`** e habilitei **CORS**.
-
-* **Frontend (React & Vite):**
-    * Estruturei uma **Single Page Application (SPA)** com **React Router DOM**, incluindo rotas públicas, privadas e com restrição de `role`.
-    * Gerenciei estado global de autenticação de forma eficaz usando a **Context API**.
-    * Desenvolvi **componentes reutilizáveis** (`Button`, `InputField`, `FormErrorMessage`, `Header`, `ProtectedRoute`, `RedirectIfLoggedIn`) para promover consistência e manutenibilidade.
-    * Implementei **estilização escopada** com **CSS Modules**.
-    * Consumi a API backend de forma assíncrona (usando `Workspace` e `async/await`) e tratei estados de loading e erro na interface.
-
-* **Testes Automatizados & Resolução de Problemas:** 🛠️🐛✅
-    * **Backend:** Escrevi **testes unitários** com **Jest** e mocks para validar a lógica de controllers e middleware isoladamente. Criei **testes de integração** com **Jest + Supertest + MongoDB Memory Server** para garantir o funcionamento completo dos endpoints da API e a interação com o banco de dados em memória.
-    * **Frontend:** Implementei **testes de componente** com **Vitest + React Testing Library + User Event**, focando no comportamento do usuário. Superei desafios significativos na configuração do ambiente de teste frontend, incluindo:
-        * Migração de Jest para **Vitest** para melhor integração com o ecossistema Vite.
-        * Configuração de transformadores (ts-jest/babel) e resolução de problemas de sintaxe (JSX).
-        * Configuração do **Mock Service Worker (MSW)** para simular a API backend, depurando erros complexos de resolução de módulos ESM (`msw/node`) e garantindo a disponibilidade de APIs Web (`TextEncoder`, `Response` via `whatwg-fetch`) no ambiente de teste (`jsdom`/`happy-dom`).
-        * Depuração de testes assíncronos e condicionais com RTL (`waitFor`, `findBy*`).
-    * **Depuração Geral:** A depuração de erros de tipo, configuração, lógica assíncrona e ambiente de teste em ambos os stacks reforçou minha capacidade de analisar problemas metodicamente e aplicar soluções eficazes.
+Sou um desenvolvedor web full-stack e gosto muito de construir aplicações completas, desde a interface com o usuário até a lógica do servidor e banco de dados. Acredito que cada projeto é uma chance de aprender e superar desafios.
 
 ---
 
-## 💻 Stack Tecnológica Principal (Usada no Projeto)
+## 🚀 Minha Jornada com o "Feedback App" (Um Estudo de Caso)
 
-**Frontend:** React, Vite, TypeScript, React Router, Context API, CSS Modules, Vitest, React Testing Library, MSW
-**Backend:** Node.js, Express, TypeScript, MongoDB, Mongoose, JWT, Bcryptjs, Jest, Supertest, MongoDB Memory Server
-**Geral:** Git, GitHub, NPM/Yarn, REST API, dotenv
+Recentemente, me dediquei a construir o **[Feedback App]**, um projeto que, apesar de parecer simples no conceito (coletar e gerenciar feedbacks), me proporcionou uma experiência prática valiosa em várias frentes do desenvolvimento full-stack moderno:
+
+* **TypeScript de Ponta a Ponta:** Adotei TypeScript tanto no backend **Node.js/Express** quanto no frontend **React/Vite**. Isso foi ótimo para a segurança e organização do código, embora tenha apresentado desafios interessantes na configuração dos ambientes de build e teste para que tudo "conversasse" bem com os tipos.
+
+* **Backend Robusto:** Criei uma API REST com Express, usando **Mongoose** para modelar e interagir com o **MongoDB**. Implementei um sistema de autenticação completo com **JWT**, incluindo hashing seguro de senhas com **bcryptjs** e um sistema de permissões baseado em papéis (`user` vs `adm`) usando middleware customizado.
+
+* **Frontend Reativo:** No lado do cliente, usei **React** com **Context API** para gerenciar o estado global de autenticação. Criei componentes reutilizáveis (`Button`, `InputField`, etc.) para manter a UI consistente e usei **CSS Modules** para evitar conflitos de estilo. A configuração do **React Router DOM** para proteger rotas e redirecionar usuários logados/deslogados corretamente (especialmente lidando com o botão "voltar" do navegador) foi um aprendizado chave.
+
+* **Testes e Depuração:** 🐛➡️✅ Implementar testes foi uma parte crucial e desafiadora.
+    * No **backend**, escrevi testes unitários com **Jest** (usando mocks) e testes de integração com **Supertest** e **MongoDB Memory Server**, o que me deu confiança de que a API estava funcionando como esperado.
+    * No **frontend**, comecei com Jest, mas enfrentei dificuldades persistentes na configuração para lidar com imports de módulos (`msw/node`) e transformações (JSX, CSS Modules) no ambiente de teste. Decidi **migrar para o Vitest**, que, por ser integrado ao Vite, resolveu esses problemas de ambiente de forma mais fluida. Usei a **React Testing Library** para focar nos testes como o usuário vê e interage, e configurei o **Mock Service Worker (MSW)** para simular as respostas da API, isolando os testes de frontend. Todo esse processo de depuração de configuração foi intenso, mas extremamente valioso!
+
+---
+
+## 🛠️ Tecnologias que Utilizei Neste Projeto
+
+* **Linguagens:** TypeScript, JavaScript
+* **Frontend:** React, Vite, React Router, Context API, CSS Modules, RTL, Vitest, MSW
+* **Backend:** Node.js, Express, Mongoose, JWT, Bcryptjs, Jest, Supertest, MongoMemoryServer
+* **Banco de Dados:** MongoDB
+* **Ferramentas:** Git, GitHub, NPM/Yarn, VS Code
 
 ---
 
 ## 📌 Projeto em Destaque: Feedback App
 
-Uma aplicação full-stack completa para gerenciamento de feedbacks com autenticação e controle de acesso baseado em papéis. Este projeto solidificou minhas habilidades em construir e **testar** aplicações web modernas de ponta a ponta.
+Uma aplicação full-stack completa para gerenciamento de feedbacks com autenticação e controle de acesso baseado em papéis. Um ótimo campo de testes para boas práticas de desenvolvimento e resolução de problemas de configuração.
 
-* **Tecnologias:** Node.js, Express, React, TypeScript, MongoDB, Mongoose, JWT, Bcryptjs, Vitest, RTL, MSW, Jest, Supertest.
-* **Repositório:** `[Link para o Repositório do Feedback App no seu GitHub]` *(Adicione outros projetos aqui se tiver)*
-
----
-
-## 🌱 Aprendizado Contínuo
-
-Estou sempre buscando aprender e melhorar. Atualmente estou focando em aprofundar em testes E2E com Cypress, explorar Next.js, aprender sobre Docker/Containers, etc.].
+* **Repositório:** `[Link para o Repositório do Feedback App no seu GitHub]`
 
 ---
 
-## 📫 Contato
+## 🌱 O Que Vem Pela Frente?
 
-Vamos conectar!
+Estou sempre buscando aprender mais. No momento, estou interessado em explorar testes E2E com Cypress, me aprofundar em Docker, estudar GraphQL, etc.]. Aberto a novas oportunidades e desafios!
 
-* **LinkedIn:** [[Seu Link do LinkedIn](https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/)]
-* **Portfólio:** [Link para seu site/portfólio]
+---
+
+## 📫 Conecte-se Comigo
+
+* **LinkedIn:** [https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/]
 * **Email:** [campitelir8@gmail.com]
 
 ---
