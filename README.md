@@ -1,6 +1,5 @@
 # Olá! Eu sou [Rafael Campiteli Pereira / campitelirafael] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/)) 
 Sou um Desenvolvedor Full-Stack entusiasmado em construir aplicações web completas e funcionais, combinando interfaces de usuário eficazes com lógicas de backend robustas e seguras. Acredito que os desafios técnicos são oportunidades de aprendizado e crescimento, como pude experienciar no desenvolvimento do projeto [Feedback App](#-projeto-em-destaque-feedback-app) detalhado abaixo.
 
 ---
@@ -55,7 +54,7 @@ Uma aplicação full-stack completa para gerenciamento de feedbacks com autentic
 
 ## 🌱 Aprendizado Contínuo
 
-Estou sempre buscando aprender e melhorar. Atualmente estou focando em [ex: aprofundar em testes E2E com Cypress, explorar Next.js, aprender sobre Docker/Containers, etc.].
+Estou sempre buscando aprender e melhorar. Atualmente estou focando em aprofundar em testes E2E com Cypress, explorar Next.js, aprender sobre Docker/Containers, etc.].
 
 ---
 
@@ -63,8 +62,8 @@ Estou sempre buscando aprender e melhorar. Atualmente estou focando em [ex: apro
 
 Vamos conectar!
 
-* **LinkedIn:** [Seu Link do LinkedIn]
+* **LinkedIn:** [[Seu Link do LinkedIn](https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/)]
 * **Portfólio:** [Link para seu site/portfólio]
-* **Email:** [seu.email@exemplo.com]
+* **Email:** [campitelir8@gmail.com]
 
 ---
