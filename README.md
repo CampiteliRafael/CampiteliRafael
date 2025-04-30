@@ -1,73 +1,70 @@
-# Olá! 👋 Eu sou Rafael Campiteli Pereira / [ campitelirafael ](https://github.com/CampiteliRafael/)]
+# Olá! Eu sou [Rafael Campiteli Pereira / campitelirafael] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Sou um Desenvolvedor Full-Stack apaixonado por criar soluções web completas, desde interfaces de usuário interativas e responsivas até APIs robustas e seguras no backend. Gosto de trabalhar com tecnologias modernas e focar em código limpo e testável.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/)) 
+Sou um Desenvolvedor Full-Stack entusiasmado em construir aplicações web completas e funcionais, combinando interfaces de usuário eficazes com lógicas de backend robustas e seguras. Acredito que os desafios técnicos são oportunidades de aprendizado e crescimento, como pude experienciar no desenvolvimento do projeto [Feedback App](#-projeto-em-destaque-feedback-app) detalhado abaixo.
 
 ---
 
-## 🛠️ Tecnologias e Habilidades (Stack Principal)
+## 💡 Habilidades e Experiência Prática (Demonstradas no Feedback App)
 
-Com base em projetos recentes como o [Feedback App](#-projeto-em-destaque-feedback-app) (descrito abaixo), estas são algumas das tecnologias com as quais tenho trabalhado:
+Este projeto foi uma jornada prática onde pude aplicar e aprofundar conhecimentos em diversas áreas cruciais do desenvolvimento Full-Stack:
 
-**Linguagens:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+* **Desenvolvimento Full-Stack & TypeScript:** Construí do zero tanto o backend (Node.js/Express) quanto o frontend (React/Vite), utilizando **TypeScript** em ambas as pontas para garantir segurança de tipos, facilitar a refatoração e prevenir erros comuns em tempo de desenvolvimento (como os que depuramos com tipos de JWT e configurações de teste).
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=flat&logo=css3&logoColor=white) 
-* Context API (Gerenciamento de Estado)
-* HTML5
+* **Backend (Node.js & Express):**
+    * Desenvolvi uma **API RESTful** estruturada com padrão similar ao MVC (Models, Routes, Controllers).
+    * Implementei **autenticação segura com JWT** (geração no login/registro, validação via middleware) e hashing de senhas com **bcryptjs**.
+    * Criei **middleware de autorização (RBAC)** para diferenciar permissões entre usuários (`user`) e administradores (`adm`).
+    * Utilizei **Mongoose** para modelagem e interação com banco de dados **MongoDB**, realizando operações CRUD para os feedbacks.
+    * Configurei o ambiente com **`dotenv`** e habilitei **CORS**.
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) 
-* (Autenticação/Autorização)
-* API RESTful Design
-* Bcryptjs (Hashing de Senha)
-* Role-Based Access Control (RBAC)
-* Middleware (Express)
+* **Frontend (React & Vite):**
+    * Estruturei uma **Single Page Application (SPA)** com **React Router DOM**, incluindo rotas públicas, privadas e com restrição de `role`.
+    * Gerenciei estado global de autenticação de forma eficaz usando a **Context API**.
+    * Desenvolvi **componentes reutilizáveis** (`Button`, `InputField`, `FormErrorMessage`, `Header`, `ProtectedRoute`, `RedirectIfLoggedIn`) para promover consistência e manutenibilidade.
+    * Implementei **estilização escopada** com **CSS Modules**.
+    * Consumi a API backend de forma assíncrona (usando `Workspace` e `async/await`) e tratei estados de loading e erro na interface.
 
-**Banco de Dados:**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-* Mongoose (ODM)
+* **Testes Automatizados & Resolução de Problemas:** 🛠️🐛✅
+    * **Backend:** Escrevi **testes unitários** com **Jest** e mocks para validar a lógica de controllers e middleware isoladamente. Criei **testes de integração** com **Jest + Supertest + MongoDB Memory Server** para garantir o funcionamento completo dos endpoints da API e a interação com o banco de dados em memória.
+    * **Frontend:** Implementei **testes de componente** com **Vitest + React Testing Library + User Event**, focando no comportamento do usuário. Superei desafios significativos na configuração do ambiente de teste frontend, incluindo:
+        * Migração de Jest para **Vitest** para melhor integração com o ecossistema Vite.
+        * Configuração de transformadores (ts-jest/babel) e resolução de problemas de sintaxe (JSX).
+        * Configuração do **Mock Service Worker (MSW)** para simular a API backend, depurando erros complexos de resolução de módulos ESM (`msw/node`) e garantindo a disponibilidade de APIs Web (`TextEncoder`, `Response` via `whatwg-fetch`) no ambiente de teste (`jsdom`/`happy-dom`).
+        * Depuração de testes assíncronos e condicionais com RTL (`waitFor`, `findBy*`).
+    * **Depuração Geral:** A depuração de erros de tipo, configuração, lógica assíncrona e ambiente de teste em ambos os stacks reforçou minha capacidade de analisar problemas metodicamente e aplicar soluções eficazes.
 
-**Testes:**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-E33A5A?style=flat) 
-* React Testing Library (Planejado/Estudando)
-* Testes Unitários & de Integração
-* Mocking (Jest Mocks)
-* MongoDB Memory Server
+---
 
-**Ferramentas & Ambiente:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) / ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat) ---
+## 💻 Stack Tecnológica Principal (Usada no Projeto)
+
+**Frontend:** React, Vite, TypeScript, React Router, Context API, CSS Modules, Vitest, React Testing Library, MSW
+**Backend:** Node.js, Express, TypeScript, MongoDB, Mongoose, JWT, Bcryptjs, Jest, Supertest, MongoDB Memory Server
+**Geral:** Git, GitHub, NPM/Yarn, REST API, dotenv
+
+---
 
 ## 📌 Projeto em Destaque: Feedback App
 
-Um sistema full-stack onde usuários podem se registrar/logar (via JWT) para enviar feedbacks, e administradores podem visualizar todos os feedbacks, aprovar, rejeitar ou deletar, além de ver estatísticas.
+Uma aplicação full-stack completa para gerenciamento de feedbacks com autenticação e controle de acesso baseado em papéis. Este projeto solidificou minhas habilidades em construir e **testar** aplicações web modernas de ponta a ponta.
 
-* **Demonstra:** Autenticação JWT, Autorização baseada em Roles (Admin/User), CRUD completo, API REST com Node/Express, Frontend reativo com React/Context API, Banco de Dados NoSQL com MongoDB/Mongoose, Testes unitários e de integração no backend.
-* **Tecnologias:** Node.js, Express, React, TypeScript, MongoDB, Mongoose, JWT, Bcryptjs, Jest, Supertest, CSS Modules.
-* **Repositório:** `[Link para o Repositório do Feedback App no seu GitHub]` ---
-
-## 🌱 Atualmente Aprendendo / Próximos Passos
-
-* Aprofundando em testes de frontend com React Testing Library e MSW.
-* Explorando Outras Tecnologias, ex: Docker, GraphQL, Next.js, CI/CD.
-* Buscando oportunidades para aplicar e expandir minhas habilidades!
+* **Tecnologias:** Node.js, Express, React, TypeScript, MongoDB, Mongoose, JWT, Bcryptjs, Vitest, RTL, MSW, Jest, Supertest.
+* **Repositório:** `[Link para o Repositório do Feedback App no seu GitHub]` *(Adicione outros projetos aqui se tiver)*
 
 ---
 
-## 📫 Como me encontrar
+## 🌱 Aprendizado Contínuo
 
-* **LinkedIn:** linkedin.com/in/rafael-campiteli-pereira-033537240/
-* **Portfólio:** [Link para seu site/portfólio, se tiver]
-* **Email:** campitelir8@gmail.com
+Estou sempre buscando aprender e melhorar. Atualmente estou focando em [ex: aprofundar em testes E2E com Cypress, explorar Next.js, aprender sobre Docker/Containers, etc.].
+
+---
+
+## 📫 Contato
+
+Vamos conectar!
+
+* **LinkedIn:** [Seu Link do LinkedIn]
+* **Portfólio:** [Link para seu site/portfólio]
+* **Email:** [seu.email@exemplo.com]
 
 ---
