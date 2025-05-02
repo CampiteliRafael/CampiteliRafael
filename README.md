@@ -1,6 +1,5 @@
 # Olá, eu sou [Rafael Campiteli Pereira / campitelirafael]! 👋
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30">
 
 Sou um desenvolvedor web full-stack e gosto muito de construir aplicações completas, desde a interface com o usuário até a lógica do servidor e banco de dados. Acredito que cada projeto é uma chance de aprender e superar desafios.
 
@@ -36,7 +35,7 @@ Recentemente, me dediquei a construir o **[Feedback App]**, um projeto que, apes
 
 Uma aplicação full-stack completa para gerenciamento de feedbacks com autenticação e controle de acesso baseado em papéis. Um ótimo campo de testes para boas práticas de desenvolvimento e resolução de problemas de configuração.
 
-* **Repositório:** `[Link para o Repositório do Feedback App no seu GitHub]`
+* **Repositório:** `[https://github.com/CampiteliRafael/projetofeedbacks]`
 
 ---
 
