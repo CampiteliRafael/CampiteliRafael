@@ -35,7 +35,7 @@ Recentemente, me dediquei a construir o **[Feedback App]**, um projeto que, apes
 
 Uma aplicação full-stack completa para gerenciamento de feedbacks com autenticação e controle de acesso baseado em papéis. Um ótimo campo de testes para boas práticas de desenvolvimento e resolução de problemas de configuração.
 
-* **Repositório:** `[https://github.com/CampiteliRafael/projetofeedbacks]`
+* **Repositório:** [https://github.com/CampiteliRafael/projetofeedbacks]
 
 ---
 
