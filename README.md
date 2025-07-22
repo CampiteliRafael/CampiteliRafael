@@ -102,7 +102,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades na prática. Cada 
   - **Tecnologias:** Next.js, React, TypeScript, SCSS/CSS Modules.
   - **O Desafio:** Criar uma interface de usuário altamente interativa e visualmente atraente, explorando efeitos de parallax e consumo de API para uma experiência imersiva.
   - **O Aprendizado Chave:** Aprofundei minhas habilidades em Next.js para otimização de performance e SEO, além de dominar técnicas avançadas de estilização com SCSS Modules para componentização e manutenção de estilos complexos.
-  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/CarroselParalax)**
+  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/carrosselparallax)**
 </details>
 
 ---
