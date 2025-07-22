@@ -1,53 +1,110 @@
-# Olá, eu sou [Rafael Campiteli Pereira / campitelirafael]! 👋
+# Olá, eu sou o Rafael Campiteli! 👋
 
-
-Sou um desenvolvedor web full-stack e gosto muito de construir aplicações completas, desde a interface com o usuário até a lógica do servidor e banco de dados. Acredito que cada projeto é uma chance de aprender e superar desafios.
-
----
-
-## 🚀 Minha Jornada com o "Feedback App"
-
-Recentemente, me dediquei a construir o **[Feedback App]**, um projeto que, apesar de parecer simples no conceito (coletar e gerenciar feedbacks), me proporcionou uma experiência prática valiosa em várias frentes do desenvolvimento full-stack moderno:
-
-* **TypeScript de Ponta a Ponta:** Adotei TypeScript tanto no backend **Node.js/Express** quanto no frontend **React/Vite**. Isso foi ótimo para a segurança e organização do código, embora tenha apresentado desafios interessantes na configuração dos ambientes de build e teste para que tudo "conversasse" bem com os tipos.
-
-* **Backend Robusto:** Criei uma API REST com Express, usando **Mongoose** para modelar e interagir com o **MongoDB**. Implementei um sistema de autenticação completo com **JWT**, incluindo hashing seguro de senhas com **bcryptjs** e um sistema de permissões baseado em papéis (`user` vs `adm`) usando middleware customizado.
-
-* **Frontend Reativo:** No lado do cliente, usei **React** com **Context API** para gerenciar o estado global de autenticação. Criei componentes reutilizáveis (`Button`, `InputField`, etc.) para manter a UI consistente e usei **CSS Modules** para evitar conflitos de estilo. A configuração do **React Router DOM** para proteger rotas e redirecionar usuários logados/deslogados corretamente (especialmente lidando com o botão "voltar" do navegador) foi um aprendizado chave.
-
-* **Testes e Depuração:** 🐛➡️✅ Implementar testes foi uma parte crucial e desafiadora.
-    * No **backend**, escrevi testes unitários com **Jest** (usando mocks) e testes de integração com **Supertest** e **MongoDB Memory Server**, o que me deu confiança de que a API estava funcionando como esperado.
-    * No **frontend**, comecei com Jest, mas enfrentei dificuldades persistentes na configuração para lidar com imports de módulos (`msw/node`) e transformações (JSX, CSS Modules) no ambiente de teste. Decidi **migrar para o Vitest**, que, por ser integrado ao Vite, resolveu esses problemas de ambiente de forma mais fluida. Usei a **React Testing Library** para focar nos testes como o usuário vê e interage, e configurei o **Mock Service Worker (MSW)** para simular as respostas da API, isolando os testes de frontend. Todo esse processo de depuração de configuração foi intenso, mas extremamente valioso!
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:campitelir8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias que Utilizei Neste Projeto
+### 👨‍💻 Sobre Mim
 
-* **Linguagens:** TypeScript, JavaScript
-* **Frontend:** React, Vite, React Router, Context API, CSS Modules, RTL, Vitest, MSW
-* **Backend:** Node.js, Express, Mongoose, JWT, Bcryptjs, Jest, Supertest, MongoMemoryServer
-* **Banco de Dados:** MongoDB
-* **Ferramentas:** Git, GitHub, NPM/Yarn, VS Code
+Sou um Desenvolvedor Full-Stack apaixonado por construir soluções completas e de alta qualidade, desde a interface do usuário até a lógica do servidor. Para mim, cada projeto não é apenas um conjunto de funcionalidades, mas uma oportunidade de resolver problemas complexos, aprender e entregar valor real.
 
----
+Minha jornada tem sido focada em criar aplicações robustas e eficientes, utilizando **TypeScript** em todo o ecossistema. No front-end, uso **React** e **Next.js** para construir interfaces dinâmicas e responsivas. No back-end, tenho experiência com **Node.js (Express)** e **Java (Spring Boot)** para desenvolver APIs seguras e escaláveis, incluindo funcionalidades críticas como autenticação JWT e controle de acesso (RBAC).
 
-## 📌 Projeto em Destaque: Feedback App
+Acredito que a qualidade é inegociável. Por isso, adoto a metodologia **TDD** e tenho uma forte prática com testes unitários e de integração, garantindo que o software seja confiável e performático em todas as camadas.
 
-Uma aplicação full-stack completa para gerenciamento de feedbacks com autenticação e controle de acesso baseado em papéis. Um ótimo campo de testes para boas práticas de desenvolvimento e resolução de problemas de configuração.
-
-* **Repositório:** [https://github.com/CampiteliRafael/projetofeedbacks]
+*💡 Uma das minhas experiências mais valiosas foi ao configurar o ambiente de testes para um projeto React/Node. Após enfrentar desafios com a configuração do Jest, pesquisei e migrei para o **Vitest** com **MSW**, o que não só resolveu os problemas técnicos, mas me ensinou profundamente sobre a integração do ecossistema de desenvolvimento moderno. É esse tipo de desafio que me move!*
 
 ---
 
-## 🌱 O Que Vem Pela Frente?
+### 🛠️ Minhas Ferramentas & Tecnologias
 
-Estou sempre buscando aprender mais. No momento, estou interessado em explorar testes E2E com Cypress, me aprofundar em Docker, estudar GraphQL, etc.]. Aberto a novas oportunidades e desafios!
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" />
+      <br>Vitest
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scss" width="48" height="48" alt="SCSS" />
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Conecte-se Comigo
+### 🚀 Projetos em Destaque
 
-* **LinkedIn:** [https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/]
-* **Email:** [campitelir8@gmail.com]
+Aqui estão alguns projetos que demonstram minhas habilidades na prática. Cada um deles tem um README detalhado explicando a arquitetura, os desafios e os aprendizados.
+
+<details>
+  <summary><strong>Feedback App - Aplicação Full-Stack com Autenticação</strong></summary>
+  
+  - **Descrição:** Uma aplicação completa para gestão de feedbacks com autenticação JWT e controle de acesso. Foi um campo de provas para aplicar testes de ponta a ponta (TDD) e resolver desafios de configuração de ambiente.
+  - **Tecnologias:** Node.js, Express, React, Vite, MongoDB, JWT, TypeScript, Jest, Supertest, Vitest, MSW.
+  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/projetofeedbacks)**
+</details>
+
+<details>
+  <summary><strong>Carrossel Parallax do Aranhaverso - Front-end Interativo</strong></summary>
+  
+  - **Descrição:** Um projeto focado em front-end com Next.js para criar uma experiência de usuário visualmente rica e interativa, consumindo uma API interna e aplicando técnicas avançadas de componentização e estilização com SCSS.
+  - **Tecnologias:** Next.js, React, TypeScript, SCSS/CSS Modules.
+  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/CarroselParalax)**
+</details>
 
 ---
+
+### 🌱 O Que Vem Pela Frente?
+
+Estou sempre buscando evoluir. Meus próximos focos de estudo são:
+- Testes E2E com **Cypress** para garantir a qualidade da perspectiva do usuário.
+- Aprofundar em **Docker** para otimizar ambientes de desenvolvimento e produção.
+- Explorar **GraphQL** como alternativa às APIs REST.
+
+Estou aberto a novas oportunidades e desafios onde eu possa contribuir, aprender e crescer. Vamos nos conectar!
