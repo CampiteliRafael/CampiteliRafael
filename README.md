@@ -95,7 +95,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades na prática. Cada 
   
   - **Descrição:** Um projeto focado em front-end com Next.js para criar uma experiência de usuário visualmente rica e interativa, consumindo uma API interna e aplicando técnicas avançadas de componentização e estilização com SCSS.
   - **Tecnologias:** Next.js, React, TypeScript, SCSS/CSS Modules.
-  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/CarroselParalax)**
+  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/carrosselparallax)**
 </details>
 
 ---
