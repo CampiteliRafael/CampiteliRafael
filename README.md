@@ -95,8 +95,6 @@ O Desafio: Construir uma aplicação full-stack robusta, garantindo a segurança
 O Aprendizado Chave: Aprofundei meu conhecimento em TDD e na integração de diferentes ferramentas de teste (Jest, Vitest, Supertest, MSW), aprendendo a depurar e otimizar ambientes de desenvolvimento complexos. A migração do Jest para o Vitest foi um marco, reforçando a importância da adaptabilidade e da busca por soluções mais eficientes.
 
 •
-🔗 Ver Repositório
-
 </details>
 
 <details>
@@ -113,9 +111,6 @@ O Desafio: Criar uma interface de usuário altamente interativa e visualmente at
 
 •
 O Aprendizado Chave: Aprofundei minhas habilidades em Next.js para otimização de performance e SEO, além de dominar técnicas avançadas de estilização com SCSS Modules para componentização e manutenção de estilos complexos, equilibrando estética e eficiência.
-
-•
-🔗 Ver Repositório
 
 </details>
 
@@ -135,8 +130,6 @@ O Desafio: Desenvolver uma API RESTful completa e segura para um sistema de e-co
 O Aprendizado Chave: Aprofundei meus conhecimentos em design de APIs RESTful, implementação de segurança com JWT e CORS, e gerenciamento de banco de dados MongoDB. A experiência reforçou a importância de uma arquitetura de backend bem definida para suportar aplicações complexas.
 
 •
-🔗 Ver Repositório
-
 </details>
 
 O Que Vem Pela Frente?
