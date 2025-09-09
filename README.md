@@ -85,7 +85,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades na prática. Cada 
 •
 Descrição: Uma aplicação completa para gestão de feedbacks com autenticação JWT e controle de acesso. Este projeto foi uma oportunidade para aplicar TDD e resolver desafios de configuração de ambiente de testes.
 
-•
+
 Tecnologias: Node.js, Express, React, Vite, MongoDB, JWT, TypeScript, Jest, Supertest, Vitest, MSW.
 
 •
@@ -94,7 +94,6 @@ O Desafio: Construir uma aplicação full-stack robusta, garantindo a segurança
 •
 O Aprendizado Chave: Aprofundei meu conhecimento em TDD e na integração de diferentes ferramentas de teste (Jest, Vitest, Supertest, MSW), aprendendo a depurar e otimizar ambientes de desenvolvimento complexos. A migração do Jest para o Vitest foi um marco, reforçando a importância da adaptabilidade e da busca por soluções mais eficientes.
 
-•
 </details>
 
 <details>
@@ -129,7 +128,6 @@ O Desafio: Desenvolver uma API RESTful completa e segura para um sistema de e-co
 •
 O Aprendizado Chave: Aprofundei meus conhecimentos em design de APIs RESTful, implementação de segurança com JWT e CORS, e gerenciamento de banco de dados MongoDB. A experiência reforçou a importância de uma arquitetura de backend bem definida para suportar aplicações complexas.
 
-•
 </details>
 
 O Que Vem Pela Frente?
