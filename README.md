@@ -10,19 +10,15 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+Sou um Desenvolvedor Full-Stack com experiência na criação de soluções completas, desde a interface do usuário até a lógica do servidor. Minha abordagem é transformar ideias complexas em aplicações funcionais e de alta qualidade. Utilizo TypeScript em todo o ecossistema de desenvolvimento, garantindo robustez e manutenibilidade.
 
-Sou um Desenvolvedor Full-Stack com experiência na construção de soluções completas e de alta qualidade, desde a interface do usuário até a lógica do servidor. Cada projeto é uma oportunidade para resolver problemas complexos, aprender e entregar valor. Minha trajetória tem sido focada em criar aplicações robustas e eficientes, utilizando **TypeScript** em todo o ecossistema, o que contribui para a construção de software de alta qualidade.
+No front-end, sou proficiente em React e Next.js, desenvolvendo interfaces dinâmicas e responsivas que priorizam a experiência do usuário. No back-end, construo APIs seguras e escaláveis com Node.js (Express), implementando funcionalidades críticas como autenticação JWT e controle de acesso (RBAC).
 
-No front-end, utilizo **React** e **Next.js** para desenvolver interfaces dinâmicas e responsivas, buscando sempre a melhor experiência para o usuário. No back-end, com **Node.js (Express)** e **Java (Spring Boot)**, construo APIs seguras e escaláveis, incluindo funcionalidades críticas como autenticação JWT e controle de acesso (RBAC), garantindo a segurança e a integridade dos dados.
+A qualidade do código é um pilar fundamental em meu trabalho. Adoto a metodologia TDD e possuo sólida experiência com testes unitários e de integração, utilizando ferramentas como Vitest, Jest, MSW e Supertest para assegurar a confiabilidade e performance das aplicações.
 
-A qualidade é um pilar fundamental em meu trabalho. Por isso, adoto a metodologia **TDD** e possuo prática com testes unitários e de integração, garantindo que o software seja confiável e performático em todas as camadas.
+Minha trajetória é marcada pela busca contínua por soluções eficientes e pela adaptabilidade a novos desafios tecnológicos. Um exemplo disso foi a transição para Vitest e MSW em um projeto, que não apenas resolveu problemas técnicos, mas também aprofundou meu conhecimento em ecossistemas de desenvolvimento modernos e otimização de testes.
 
-*💡 Uma das minhas experiências mais valiosas foi ao configurar o ambiente de testes para um projeto React/Node. Após enfrentar desafios com a configuração do Jest, pesquisei e migrei para o **Vitest** com **MSW**. Essa transição não apenas resolveu os problemas técnicos, mas também proporcionou um aprendizado aprofundado sobre a integração do ecossistema de desenvolvimento moderno. Desafios como este me motivam a buscar soluções eficientes e aprimorar minhas habilidades continuamente!*
-
----
-
-### 🛠️ Minhas Ferramentas & Tecnologias
+Minhas Ferramentas & Tecnologias
 
 <table>
   <tr>
@@ -39,19 +35,9 @@ A qualidade é um pilar fundamental em meu trabalho. Por isso, adoto a metodolog
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -60,6 +46,8 @@ A qualidade é um pilar fundamental em meu trabalho. Por isso, adoto a metodolog
       <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
       <br>Jest
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" />
       <br>Vitest
@@ -76,43 +64,92 @@ A qualidade é um pilar fundamental em meu trabalho. Por isso, adoto a metodolog
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
   </tr>
 </table>
 
----
-
-### 🚀 Projetos em Destaque
+Projetos em Destaque
 
 Aqui estão alguns projetos que demonstram minhas habilidades na prática. Cada um deles possui um README detalhado explicando a arquitetura, os desafios e os aprendizados.
 
 <details>
-  <summary><strong>Feedback App - Aplicação Full-Stack com Autenticação</strong></summary>
-  
-  - **Descrição:** Uma aplicação completa para gestão de feedbacks com autenticação JWT e controle de acesso. Este projeto foi uma oportunidade para aplicar testes de ponta a ponta (TDD) e resolver desafios de configuração de ambiente.
-  - **Tecnologias:** Node.js, Express, React, Vite, MongoDB, JWT, TypeScript, Jest, Supertest, Vitest, MSW.
-  - **O Desafio:** Construir uma aplicação full-stack robusta, garantindo a segurança dos dados e a integridade das operações através de autenticação e testes abrangentes.
-  - **O Aprendizado Chave:** Aprofundei meu conhecimento em TDD e na integração de diferentes ferramentas de teste (Jest, Vitest, Supertest, MSW), aprendendo a depurar e otimizar ambientes de desenvolvimento complexos. A migração do Jest para o Vitest foi um marco, reforçando a importância da adaptabilidade e da busca por soluções mais eficientes.
-  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/projetofeedbacks)**
+  <summary><strong>Feedback App - Aplicação Full-Stack com Autenticação e Testes</strong></summary>
+
+•
+Descrição: Uma aplicação completa para gestão de feedbacks com autenticação JWT e controle de acesso. Este projeto foi uma oportunidade para aplicar TDD e resolver desafios de configuração de ambiente de testes.
+
+•
+Tecnologias: Node.js, Express, React, Vite, MongoDB, JWT, TypeScript, Jest, Supertest, Vitest, MSW.
+
+•
+O Desafio: Construir uma aplicação full-stack robusta, garantindo a segurança dos dados e a integridade das operações através de autenticação e testes abrangentes, abordando desafios na configuração de um ambiente de testes completo.
+
+•
+O Aprendizado Chave: Aprofundei meu conhecimento em TDD e na integração de diferentes ferramentas de teste (Jest, Vitest, Supertest, MSW), aprendendo a depurar e otimizar ambientes de desenvolvimento complexos. A migração do Jest para o Vitest foi um marco, reforçando a importância da adaptabilidade e da busca por soluções mais eficientes.
+
+•
+🔗 Ver Repositório
+
 </details>
 
 <details>
   <summary><strong>Carrossel Parallax do Aranhaverso - Front-end Interativo</strong></summary>
-  
-  - **Descrição:** Um projeto focado em front-end com Next.js para criar uma experiência de usuário visualmente rica e interativa, consumindo uma API interna e aplicando técnicas avançadas de componentização e estilização com SCSS.
-  - **Tecnologias:** Next.js, React, TypeScript, SCSS/CSS Modules.
-  - **O Desafio:** Criar uma interface de usuário altamente interativa e visualmente atraente, explorando efeitos de parallax e consumo de API para uma experiência imersiva.
-  - **O Aprendizado Chave:** Aprofundei minhas habilidades em Next.js para otimização de performance e SEO, além de dominar técnicas avançadas de estilização com SCSS Modules para componentização e manutenção de estilos complexos.
-  - **[🔗 Ver Repositório](https://github.com/CampiteliRafael/carrosselparallax)**
+
+•
+Descrição: Um projeto focado em front-end com Next.js para criar uma experiência de usuário visualmente rica e interativa, consumindo uma API interna e aplicando técnicas avançadas de componentização e estilização com SCSS.
+
+•
+Tecnologias: Next.js, React, TypeScript, SCSS/CSS Modules.
+
+•
+O Desafio: Criar uma interface de usuário altamente interativa e visualmente atraente, explorando efeitos de parallax e consumo de API para uma experiência imersiva, com performance otimizada.
+
+•
+O Aprendizado Chave: Aprofundei minhas habilidades em Next.js para otimização de performance e SEO, além de dominar técnicas avançadas de estilização com SCSS Modules para componentização e manutenção de estilos complexos, equilibrando estética e eficiência.
+
+•
+🔗 Ver Repositório
+
 </details>
 
----
+<details>
+  <summary><strong>Backend Setup - E-commerce Cart - API Robustas e Seguras</strong></summary>
 
-### 🌱 O Que Vem Pela Frente?
+•
+Descrição: Backend para um carrinho de e-commerce, desenvolvido com Node.js, Express, MongoDB e TypeScript, focado na criação de APIs robustas e seguras para gerenciamento de produtos, usuários e carrinhos de compra.
+
+•
+Tecnologias: Node.js, Express, MongoDB, TypeScript, JWT, CORS.
+
+•
+O Desafio: Desenvolver uma API RESTful completa e segura para um sistema de e-commerce, incluindo autenticação, autorização e persistência de dados, garantindo a escalabilidade e a manutenibilidade do código.
+
+•
+O Aprendizado Chave: Aprofundei meus conhecimentos em design de APIs RESTful, implementação de segurança com JWT e CORS, e gerenciamento de banco de dados MongoDB. A experiência reforçou a importância de uma arquitetura de backend bem definida para suportar aplicações complexas.
+
+•
+🔗 Ver Repositório
+
+</details>
+
+O Que Vem Pela Frente?
 
 Estou sempre buscando evoluir e expandir minhas habilidades para me manter atualizado com as demandas do mercado e as melhores práticas de desenvolvimento. Meus próximos focos de estudo incluem:
 
-- **Testes E2E com Cypress:** Para garantir a qualidade da perspectiva do usuário e a robustez da aplicação em cenários reais de uso, assegurando que todas as funcionalidades se comportem como esperado do início ao fim.
-- **Aprofundar em Docker:** Para otimizar ambientes de desenvolvimento e produção, facilitando a criação de ambientes consistentes e a implantação de aplicações de forma eficiente e escalável.
-- **Explorar GraphQL:** Como alternativa às APIs REST, buscando otimizar a comunicação entre cliente e servidor, reduzindo a sobrecarga de dados e melhorando a flexibilidade no consumo de informações.
+•
+Testes E2E com Cypress: Para garantir a qualidade da perspectiva do usuário e a robustez da aplicação em cenários reais de uso, assegurando que todas as funcionalidades se comportem como esperado do início ao fim.
+
+•
+Aprofundar em Docker: Para otimizar ambientes de desenvolvimento e produção, facilitando a criação de ambientes consistentes e a implantação de aplicações de forma eficiente e escalável.
+
+•
+Explorar GraphQL: Como alternativa às APIs REST, buscando otimizar a comunicação entre cliente e servidor, reduzindo a sobrecarga de dados e melhorando a flexibilidade no consumo de informações.
 
 Estou aberto a novas oportunidades e desafios onde eu possa contribuir, aprender e crescer. Vamos nos conectar!
