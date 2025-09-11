@@ -30,7 +30,7 @@ Minhas Ferramentas & Tecnologias
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
@@ -43,11 +43,15 @@ Minhas Ferramentas & Tecnologias
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-      <br>Jest
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" />
       <br>Vitest
