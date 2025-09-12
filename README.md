@@ -123,20 +123,34 @@ O Aprendizado Chave: Aprofundei minhas habilidades em Next.js para otimização 
 
 </details>
 
-<details>
-  <summary><strong>Backend Setup - E-commerce Cart - API Robustas e Seguras</strong></summary>
+<details> <summary><strong>cartEcommerce - Sistema de Carrinho de E-commerce</strong></summary>
 
-•
-Descrição: Backend para um carrinho de e-commerce, desenvolvido com Node.js, Express, MongoDB e TypeScript, focado na criação de APIs robustas e seguras para gerenciamento de produtos, usuários e carrinhos de compra.
+Descrição: Aplicação de e-commerce com frontend em Next.js e backend em Node.js/Express/MongoDB.
+Foco principal no sistema de carrinho de compras, permitindo adicionar, atualizar e remover produtos de forma dinâmica, com persistência de dados entre sessões.
 
-•
-Tecnologias: Node.js, Express, MongoDB, TypeScript, JWT, CORS.
+Funcionalidades do Carrinho:
 
-•
-O Desafio: Desenvolver uma API RESTful completa e segura para um sistema de e-commerce, incluindo autenticação, autorização e persistência de dados, garantindo a escalabilidade e a manutenibilidade do código.
+Adicionar produtos e controlar quantidades (com validação de estoque)
 
-•
-O Aprendizado Chave: Aprofundei meus conhecimentos em design de APIs RESTful, implementação de segurança com JWT e CORS, e gerenciamento de banco de dados MongoDB. A experiência reforçou a importância de uma arquitetura de backend bem definida para suportar aplicações complexas.
+Visualizar itens do carrinho, subtotais e total geral
+
+Atualizar quantidades com feedback instantâneo
+
+Remover produtos com atualização imediata do estado
+
+Persistência vinculada à conta do usuário, sincronização entre dispositivos
+
+Arquitetura:
+
+Frontend (Next.js): Context API para gerenciamento global do carrinho, componentes de UI, integração com API.
+
+Backend (Node.js + Express): Controladores, serviços e rotas para operações do carrinho.
+
+Banco (MongoDB): Modelo de carrinho vinculado ao usuário e aos itens dos produtos.
+
+Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT.
+
+Diferenciais: Segurança com autenticação JWT, validações no frontend e backend, otimização de performance com atualizações de UI e tratamento de erros adequado.
 
 </details>
 
