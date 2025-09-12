@@ -10,13 +10,9 @@
 
 ---
 
-Sou um Desenvolvedor Full-Stack com experiência na criação de soluções completas, desde a interface do usuário até a lógica do servidor. Minha abordagem é transformar ideias complexas em aplicações funcionais e de alta qualidade. Utilizo TypeScript em todo o ecossistema de desenvolvimento, garantindo robustez e manutenibilidade.
+Desenvolvedor Full-Stack com experiência em TypeScript, React, Next.js, Node.js/Express, MongoDB e PostgreSQL. Aplicação de MVC Pattern, microservices architecture e containerização com Docker para construção de sistemas escaláveis e de fácil manutenção.
 
-No front-end, sou proficiente em React e Next.js, desenvolvendo interfaces dinâmicas e responsivas que priorizam a experiência do usuário. No back-end, construo APIs seguras e escaláveis com Node.js (Express), implementando funcionalidades críticas como autenticação JWT e controle de acesso (RBAC).
-
-A qualidade do código é um pilar fundamental em meu trabalho. Adoto a metodologia TDD e possuo sólida experiência com testes unitários e de integração, utilizando ferramentas como Vitest, Jest, MSW e Supertest para assegurar a confiabilidade e performance das aplicações.
-
-Minha trajetória é marcada pela busca contínua por soluções eficientes e pela adaptabilidade a novos desafios tecnológicos. Um exemplo disso foi a transição para Vitest e MSW em um projeto, que não apenas resolveu problemas técnicos, mas também aprofundou meu conhecimento em ecossistemas de desenvolvimento modernos e otimização de testes.
+Foco em interfaces responsivas, APIs seguras e escaláveis, autenticação JWT, controle de acesso (RBAC) e validação de dados. Prática em TDD, testes unitários e de integração utilizando Jest, Vitest, MSW e Supertest.
 
 Minhas Ferramentas & Tecnologias
 
@@ -89,12 +85,10 @@ Projetos em Destaque
 
 Aqui estão alguns projetos que demonstram minhas habilidades na prática. Cada um deles possui um README detalhado explicando a arquitetura, os desafios e os aprendizados.
 
-<details>
-  <summary><strong>Feedback App - Aplicação Full-Stack com Autenticação e Testes</strong></summary>
+<details> <summary><strong>Feedback App - Aplicação Full-Stack com Autenticação e Testes</strong></summary>
 
 •
 Descrição: Uma aplicação completa para gestão de feedbacks com autenticação JWT e controle de acesso. Este projeto foi uma oportunidade para aplicar TDD e resolver desafios de configuração de ambiente de testes.
-
 
 Tecnologias: Node.js, Express, React, Vite, MongoDB, JWT, TypeScript, Jest, Supertest, Vitest, MSW.
 
@@ -104,10 +98,7 @@ O Desafio: Construir uma aplicação full-stack robusta, garantindo a segurança
 •
 O Aprendizado Chave: Aprofundei meu conhecimento em TDD e na integração de diferentes ferramentas de teste (Jest, Vitest, Supertest, MSW), aprendendo a depurar e otimizar ambientes de desenvolvimento complexos. A migração do Jest para o Vitest foi um marco, reforçando a importância da adaptabilidade e da busca por soluções mais eficientes.
 
-</details>
-
-<details>
-  <summary><strong>Carrossel Parallax do Aranhaverso - Front-end Interativo</strong></summary>
+</details> <details> <summary><strong>Carrossel Parallax do Aranhaverso - Front-end Interativo</strong></summary>
 
 •
 Descrição: Um projeto focado em front-end com Next.js para criar uma experiência de usuário visualmente rica e interativa, consumindo uma API interna e aplicando técnicas avançadas de componentização e estilização com SCSS.
@@ -121,50 +112,22 @@ O Desafio: Criar uma interface de usuário altamente interativa e visualmente at
 •
 O Aprendizado Chave: Aprofundei minhas habilidades em Next.js para otimização de performance e SEO, além de dominar técnicas avançadas de estilização com SCSS Modules para componentização e manutenção de estilos complexos, equilibrando estética e eficiência.
 
-</details>
+</details> 
 
 <details> <summary><strong>cartEcommerce - Sistema de Carrinho de E-commerce</strong></summary>
 
-Descrição: Aplicação de e-commerce com frontend em Next.js e backend em Node.js/Express/MongoDB.
-Foco principal no sistema de carrinho de compras, permitindo adicionar, atualizar e remover produtos de forma dinâmica, com persistência de dados entre sessões.
+•
+Descrição: Aplicação de e-commerce com gerenciamento de carrinho, persistência de dados entre sessões e sincronização entre dispositivos.
 
-Funcionalidades do Carrinho:
+•
+Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT, Docker.
 
-Adicionar produtos e controlar quantidades (com validação de estoque)
+•
+Arquitetura: MVC Pattern, frontend (Next.js + Context API), backend (Node.js + Express), banco de dados (MongoDB).
 
-Visualizar itens do carrinho, subtotais e total geral
-
-Atualizar quantidades com feedback instantâneo
-
-Remover produtos com atualização imediata do estado
-
-Persistência vinculada à conta do usuário, sincronização entre dispositivos
-
-Arquitetura:
-
-Frontend (Next.js): Context API para gerenciamento global do carrinho, componentes de UI, integração com API.
-
-Backend (Node.js + Express): Controladores, serviços e rotas para operações do carrinho.
-
-Banco (MongoDB): Modelo de carrinho vinculado ao usuário e aos itens dos produtos.
-
-Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT.
-
-Diferenciais: Segurança com autenticação JWT, validações no frontend e backend, otimização de performance com atualizações de UI e tratamento de erros adequado.
+•
+Principais Benefícios: Validação de dados no front-end e back-end, segurança com autenticação JWT, escalabilidade, padronização arquitetural e performance otimizada.
 
 </details>
-
-O Que Vem Pela Frente?
-
-Estou sempre buscando evoluir e expandir minhas habilidades para me manter atualizado com as demandas do mercado e as melhores práticas de desenvolvimento. Meus próximos focos de estudo incluem:
-
-•
-Testes E2E com Cypress: Para garantir a qualidade da perspectiva do usuário e a robustez da aplicação em cenários reais de uso, assegurando que todas as funcionalidades se comportem como esperado do início ao fim.
-
-•
-Aprofundar em Docker: Para otimizar ambientes de desenvolvimento e produção, facilitando a criação de ambientes consistentes e a implantação de aplicações de forma eficiente e escalável.
-
-•
-Explorar GraphQL: Como alternativa às APIs REST, buscando otimizar a comunicação entre cliente e servidor, reduzindo a sobrecarga de dados e melhorando a flexibilidade no consumo de informações.
 
 Estou aberto a novas oportunidades e desafios onde eu possa contribuir, aprender e crescer. Vamos nos conectar!
