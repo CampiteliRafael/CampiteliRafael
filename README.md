@@ -10,7 +10,7 @@
 
 ---
 
-Desenvolvedor Full-Stack com experiência em TypeScript, React, Next.js, Node.js/Express, MongoDB e PostgreSQL. Aplicação de MVC Pattern, microservices architecture e containerização com Docker para construção de sistemas escaláveis e de fácil manutenção.
+Desenvolvedor Full-Stack com experiência em TypeScript, React, Next.js, Node.js/Express, MongoDB e PostgreSQL. Aplicação de MVC Pattern, microservices architecture e containerização com Docker.
 
 Foco em interfaces responsivas, APIs seguras e escaláveis, autenticação JWT, controle de acesso (RBAC) e validação de dados. Prática em TDD, testes unitários e de integração utilizando Jest, Vitest, MSW e Supertest.
 
