@@ -90,7 +90,7 @@ Sistema completo de gestão financeira pessoal com arquitetura limpa
 - **Features:** Dashboard, Contas, Transações, Metas, Parcelamentos, Notificações
 - **Segurança:** JWT + Refresh Tokens, Rate Limiting, CORS
 - **DevOps:** Docker Compose, CI/CD, Deploy Vercel + Render
-- **[🚀 Demo ao Vivo](https://fintrack.vercel.app)** | **[📚 API Docs](https://fintrack-9iaq.onrender.com/api-docs)**
+- **[🚀 Demo ao Vivo](https://fintrack-nu-cyan.vercel.app/)** | **[📚 API Docs](https://fintrack-9iaq.onrender.com/api-docs/)**
 
 ### 🛒 [ShopSmart - E-commerce Cart](https://github.com/CampiteliRafael/cartEcommerce)
 Carrinho de e-commerce full-stack com autenticação
@@ -155,8 +155,8 @@ API minimalista com Fastify
 ## 📫 Vamos Conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fintrack.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campitelir8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](fintrack-nu-cyan.vercel.app)
 
 ---
 
