@@ -127,19 +127,6 @@ API minimalista com Fastify
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CampiteliRafael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CampiteliRafael&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CampiteliRafael&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🏆 Diferenciais
 
 - 💡 **Clean Code** - Código legível e manutenível
