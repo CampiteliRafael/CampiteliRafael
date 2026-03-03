@@ -1,123 +1,171 @@
+# 👋 Olá! Eu sou Rafael Campiteli
 
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;TypeScript+%7C+React+%7C+Node.js;Clean+Architecture+%26+TDD;Construindo+soluções+robustas!)
 
-# Olá, eu sou o Rafael Campiteli! 👋
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:campitelir8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 🚀 Sobre Mim
+
+Desenvolvedor Full-Stack com foco em **TypeScript**, **React** e **Node.js**. Apaixonado por construir aplicações escaláveis e eficientes, aplicando **Clean Architecture**, **TDD** e boas práticas de desenvolvimento.
+
+- 🔭 Desenvolvendo projetos full-stack com arquitetura limpa
+- 🌱 Praticando TDD e otimização de performance
+- 💡 Explorando Cloud (AWS S3), Docker e DevOps
+- 📍 Santa Bárbara D'Oeste - São Paulo
 
 ---
 
-Desenvolvedor Full-Stack com experiência em TypeScript, React, Next.js, Node.js/Express, MongoDB e PostgreSQL. Aplicação de MVC Pattern, microservices architecture e containerização com Docker.
+## 💻 Stack Tecnológico
 
-Foco em interfaces responsivas, APIs seguras e escaláveis, autenticação JWT, controle de acesso (RBAC) e validação de dados. Prática em TDD, testes unitários e de integração utilizando Jest, Vitest, MSW e Supertest.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Minhas Ferramentas & Tecnologias
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-      <br>Jest
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+### Database & Cache
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-Projetos em Destaque
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Aqui estão alguns projetos que demonstram minhas habilidades na prática. Cada um deles possui um README detalhado explicando a arquitetura, os desafios e os aprendizados.
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-<details> <summary><strong>Feedback App - Aplicação Full-Stack com Autenticação e Testes</strong></summary>
+---
 
-•
-Descrição: Uma aplicação completa para gestão de feedbacks com autenticação JWT e controle de acesso. Este projeto foi uma oportunidade para aplicar TDD e resolver desafios de configuração de ambiente de testes.
+## 🎯 Conceitos & Práticas que Aplico
 
-Tecnologias: Node.js, Express, React, Vite, MongoDB, JWT, TypeScript, Jest, Supertest, Vitest, MSW.
+### Arquitetura & Design
+- ✅ **Clean Architecture** - Separação em camadas (Domain, Application, Infrastructure)
+- ✅ **Design Patterns** - Repository, Factory, Dependency Injection
+- ✅ **SOLID Principles** - Código manutenível e escalável
+- ✅ **RESTful API** - Endpoints bem estruturados e padronizados
 
-•
-O Desafio: Construir uma aplicação full-stack robusta, garantindo a segurança dos dados e a integridade das operações através de autenticação e testes abrangentes, abordando desafios na configuração de um ambiente de testes completo.
+### Qualidade & Testes
+- ✅ **TDD** (Test-Driven Development) - Desenvolvimento orientado por testes
+- ✅ **Unit Tests** - Jest, Vitest
+- ✅ **Integration Tests** - Supertest, MSW (Mock Service Worker)
+- ✅ **E2E Tests** - React Testing Library
 
-•
-O Aprendizado Chave: Aprofundei meu conhecimento em TDD e na integração de diferentes ferramentas de teste (Jest, Vitest, Supertest, MSW), aprendendo a depurar e otimizar ambientes de desenvolvimento complexos. A migração do Jest para o Vitest foi um marco, reforçando a importância da adaptabilidade e da busca por soluções mais eficientes.
+### Segurança & Performance
+- ✅ **JWT Authentication** - Tokens seguros e refresh tokens
+- ✅ **RBAC** (Role-Based Access Control) - Controle de permissões
+- ✅ **Data Validation** - Zod, class-validator
+- ✅ **Rate Limiting** - Proteção contra ataques
+- ✅ **Caching Strategy** - Redis para otimização
 
-</details> <details> <summary><strong>Carrossel Parallax do Aranhaverso - Front-end Interativo</strong></summary>
+### DevOps & Database
+- ✅ **Database Migrations** - Versionamento de schema (Prisma, TypeORM)
+- ✅ **Docker Compose** - Ambientes isolados
+- ✅ **CI/CD** - Deploy automático (Vercel, Render)
+- ✅ **Cloud Storage** - Integração com AWS S3
 
-•
-Descrição: Um projeto focado em front-end com Next.js para criar uma experiência de usuário visualmente rica e interativa, consumindo uma API interna e aplicando técnicas avançadas de componentização e estilização com SCSS.
+---
 
-•
-Tecnologias: Next.js, React, TypeScript, SCSS/CSS Modules.
+## 🌟 Projetos em Destaque
 
-•
-O Desafio: Criar uma interface de usuário altamente interativa e visualmente atraente, explorando efeitos de parallax e consumo de API para uma experiência imersiva, com performance otimizada.
+### 💰 [FinTrack - Sistema de Gestão Financeira](https://github.com/CampiteliRafael/FinTrack)
+Sistema completo de gestão financeira pessoal com arquitetura limpa
+- **Stack:** React + TypeScript + Node.js + PostgreSQL + Redis + Prisma
+- **Arquitetura:** Clean Architecture com 3 camadas
+- **Features:** Dashboard, Contas, Transações, Metas, Parcelamentos, Notificações
+- **Segurança:** JWT + Refresh Tokens, Rate Limiting, CORS
+- **DevOps:** Docker Compose, CI/CD, Deploy Vercel + Render
+- **[🚀 Demo ao Vivo](https://fintrack.vercel.app)** | **[📚 API Docs](https://fintrack-9iaq.onrender.com/api-docs)**
 
-•
-O Aprendizado Chave: Aprofundei minhas habilidades em Next.js para otimização de performance e SEO, além de dominar técnicas avançadas de estilização com SCSS Modules para componentização e manutenção de estilos complexos, equilibrando estética e eficiência.
+### 🛒 [ShopSmart - E-commerce Cart](https://github.com/CampiteliRafael/cartEcommerce)
+Carrinho de e-commerce full-stack com autenticação
+- **Stack:** Next.js + TypeScript + MongoDB + Express + Tailwind
+- **Features:** CRUD de produtos, carrinho persistente, autenticação JWT
+- **Conceitos:** Context API, validações duplas (front + back)
+- **Arquitetura:** 3 camadas + relacionamentos entre entidades
 
-</details> 
+### 🎙️ [API Podcasts - Clean Architecture](https://github.com/CampiteliRafael/api_podcasts)
+API para gerenciamento de podcasts seguindo princípios de Clean Architecture
+- **Stack:** Node.js + TypeScript + TypeORM + PostgreSQL + AWS S3
+- **Arquitetura:** 4 camadas (Presentation, Application, Domain, Infrastructure)
+- **Features:** CRUD, upload para S3, analytics de escuta, autenticação JWT
+- **Patterns:** Repository Pattern, DTO Pattern
+- **Tests:** Jest com cobertura de testes
 
-<details> <summary><strong>cartEcommerce - Sistema de Carrinho de E-commerce</strong></summary>
+### 💬 [Feedback System - Full TDD](https://github.com/CampiteliRafael/projetofeedbacks)
+Sistema de coleta e moderação de feedbacks com TDD
+- **Stack:** React + Vite + TypeScript + Node.js + Express + MongoDB
+- **Metodologia:** TDD (Test-Driven Development)
+- **Tests:** Vitest, Jest, Supertest, MSW, React Testing Library
+- **Segurança:** RBAC, autenticação JWT
+- **Conceitos:** Type safety, testes de integração
 
-•
-Descrição: Aplicação de e-commerce com gerenciamento de carrinho, persistência de dados entre sessões e sincronização entre dispositivos.
+### ⚽ [API Champions League](https://github.com/CampiteliRafael/api_championsleague)
+API completa com dados da Champions League
+- **Stack:** Node.js + Express + TypeScript
+- **Features:** CRUD completo, endpoints RESTful
 
-•
-Tecnologias: Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT, Docker.
+### 🏎️ [API Fórmula 1 - Minimalista](https://github.com/CampiteliRafael/api_formula1)
+API minimalista com Fastify
+- **Stack:** Node.js + Fastify + TypeScript
+- **Features:** CRUD de pilotos, performance otimizada
 
-•
-Arquitetura: MVC Pattern, frontend (Next.js + Context API), backend (Node.js + Express), banco de dados (MongoDB).
+---
 
-•
-Principais Benefícios: Validação de dados no front-end e back-end, segurança com autenticação JWT, escalabilidade, padronização arquitetural e performance otimizada.
+## 📊 GitHub Stats
 
-</details>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CampiteliRafael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CampiteliRafael&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-Estou aberto a novas oportunidades e desafios onde eu possa contribuir, aprender e crescer. Vamos nos conectar!
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CampiteliRafael&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Diferenciais
+
+- 💡 **Clean Code** - Código legível e manutenível
+- 🧪 **TDD** - Desenvolvimento orientado por testes
+- 🏗️ **Clean Architecture** - Separação de responsabilidades
+- 🔐 **Segurança** - Implementação de boas práticas (JWT, RBAC, Rate Limiting)
+- ⚡ **Performance** - Otimização com cache (Redis) e queries eficientes
+- 📝 **Documentação** - APIs documentadas com Swagger/OpenAPI
+- 🐳 **DevOps** - Docker, CI/CD, deploy automatizado
+
+---
+
+## 📫 Vamos Conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-campiteli-pereira-033537240/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fintrack.vercel.app)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CampiteliRafael&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
+
+<div align="center">
+
+**"First, solve the problem. Then, write the code." - John Johnson**
+
+</div>
