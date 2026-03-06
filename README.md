@@ -76,7 +76,6 @@ Desenvolvedor Full-Stack com foco em **TypeScript**, **React** e **Node.js**. Ap
 - ✅ **Database Migrations** - Versionamento de schema (Prisma, TypeORM)
 - ✅ **Docker Compose** - Ambientes isolados
 - ✅ **CI/CD** - Deploy automático (Vercel, Render)
-- ✅ **Cloud Storage** - Integração com AWS S3
 
 ---
 
