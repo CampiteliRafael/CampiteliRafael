@@ -87,8 +87,7 @@ Sistema completo de gestão financeira pessoal com arquitetura limpa
 - **Arquitetura:** Clean Architecture com 3 camadas
 - **Features:** Dashboard, Contas, Transações, Metas, Parcelamentos, Notificações
 - **Segurança:** JWT + Refresh Tokens, Rate Limiting, CORS
-- **DevOps:** Docker Compose, CI/CD, Deploy Vercel + Render
-- **[🚀 Demo ao Vivo](https://fintrack-nu-cyan.vercel.app/)** | **[📚 API Docs](https://fintrack-9iaq.onrender.com/api-docs/)**
+- **DevOps:** Docker Compose, CI/CD
 
 ### 🛒 [ShopSmart - E-commerce Cart](https://github.com/CampiteliRafael/cartEcommerce)
 Carrinho de e-commerce full-stack com autenticação
