@@ -50,6 +50,8 @@ Atualmente continuo evoluindo minhas habilidades por meio de projetos práticos,
 ##### Docker
 ##### Docker Compose
 ##### Postman
+##### Swagger
+##### Jira
 
 ### ✅ Testes
 
