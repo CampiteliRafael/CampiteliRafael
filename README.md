@@ -2,198 +2,222 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=Desenvolvedor+Front+End+Júnior;TypeScript+%7C+React+%7C+Node.js;Sempre+aprendendo+e+construindo)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=Desenvolvedor+Front+End;TypeScript+%7C+React+%7C+Node.js;Sempre+aprendendo+e+construindo)
 
-</div>
+# Olá! Eu sou Rafael Campiteli
 
-## 🚀 Sobre mim
+<p align="left">
+Desenvolvedor Front-end especializado em React, Next.js e TypeScript, com experiência prática no desenvolvimento Back-end utilizando Node.js, PostgreSQL e MongoDB.
+</p>
 
-Sou Desenvolvedor Front-end especializado em React, Next.js e TypeScript, com experiência prática no desenvolvimento Back-end utilizando Node.js, PostgreSQL e MongoDB.
 
-Gosto de desenvolver aplicações bem estruturadas, fáceis de manter e seguindo boas práticas de engenharia de software. Tenho interesse especial na construção de interfaces modernas, acessíveis e performáticas, sem abrir mão de uma sólida compreensão de arquitetura de software e desenvolvimento back-end. Essa visão full stack me permite desenvolver aplicações completas e colaborar de forma eficiente entre diferentes camadas de um produto.
+# Sobre mim
 
-### 📚 Atualmente
+Sou apaixonado por desenvolvimento de software e pela construção de aplicações modernas que proporcionam uma excelente experiência ao usuário.
 
-Desenvolvendo aplicações Front-end completas utilizando React, Next.js e TypeScript
-Estudando Performance Web, Acessibilidade (WCAG) e boas práticas de UX
-Evoluindo na integração com APIs REST e arquitetura Front-end
-Construindo projetos Full Stack para aprofundar conhecimentos em Node.js e bancos de dados
+Meu principal foco está no desenvolvimento Front-end utilizando React, Next.js e TypeScript, criando interfaces performáticas, responsivas e escaláveis.
 
----
+Durante minha experiência profissional participei do desenvolvimento e manutenção de aplicações corporativas, implementando novas funcionalidades, integrando APIs REST, realizando correções de bugs e contribuindo para melhorias de performance em ambiente ágil (Scrum).
 
-# 💻 Stack Tecnológica
+Além do Front-end, possuo experiência prática com desenvolvimento Back-end utilizando Node.js, Express, PostgreSQL e MongoDB, permitindo compreender todo o fluxo de uma aplicação e colaborar em diferentes camadas do sistema.
 
-### Frontend
+Tenho como objetivo evoluir continuamente como Engenheiro de Software, aplicando boas práticas como Clean Code, SOLID, Design Patterns, Arquitetura de Software e testes automatizados.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
-### Backend
+# Atualmente
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge\&logo=fastify\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge\&logo=typeorm\&logoColor=white)
+- 🚀 Desenvolvendo aplicações Front-end utilizando React, Next.js e TypeScript
+- 🎨 Aprimorando conhecimentos em Performance Web e Acessibilidade (WCAG)
+- 🔗 Construindo integrações com APIs REST
+- ⚙️ Desenvolvendo projetos Full Stack para aprofundar conhecimentos em arquitetura de software
+- 🧪 Evoluindo em Testes Automatizados
+- 🐳 Aprimorando conhecimentos em Docker e CI/CD
 
-### Banco de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+# Stack Tecnológica
 
-### Ferramentas & DevOps
+## Front-end
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Tailwind CSS
 
-### Testes
+## Back-end
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge\&logo=testing-library\&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
+- Node.js
+- Express
+- REST APIs
+- JWT Authentication
 
----
+## Banco de Dados
 
-# 🛠️ Tecnologias e conceitos que venho praticando
+- PostgreSQL
+- MongoDB
+- Redis
+- Prisma ORM
 
-* Clean Architecture
-* SOLID
-* Design Patterns
-* REST APIs
-* JWT Authentication
-* Refresh Tokens
-* RBAC (Role-Based Access Control)
-* Validação de dados
-* Docker
-* Docker Compose
-* Redis
-* Cache
-* Testes Unitários
-* Testes de Integração
-* CI/CD
-* Swagger / OpenAPI
+## Ferramentas
 
----
+- Git
+- GitHub
+- Docker
+- Docker Compose
+- Postman
+- VS Code
 
-# 🌟 Projetos em Destaque
+## Testes
 
-## 💰 FinTrack — Sistema de Gestão Financeira
+- Jest
+- Vitest
+- React Testing Library
+  
 
-Aplicação Full Stack para gerenciamento financeiro pessoal.
+# O que gosto de desenvolver
 
-**Stack**
+✔ Dashboards
 
-* React
-* TypeScript
-* Node.js
-* PostgreSQL
-* Redis
-* Prisma
+✔ Sistemas SaaS
 
-**Destaques**
+✔ Plataformas Administrativas
 
-* Dashboard financeiro
-* Controle de receitas e despesas
-* Autenticação JWT
-* Docker Compose
-* Testes automatizados
+✔ Sistemas Financeiros
 
-➡️ **Repositório:**
+✔ E-commerce
+
+✔ Painéis Administrativos
+
+✔ APIs REST
+
+✔ Sistemas de Autenticação
+
+✔ Integração Front-end & Back-end
+
+
+# Projetos em Destaque
+
+## FinTrack — Sistema de Gestão Financeira
+
+Sistema de gestão financeira desenvolvido com React e TypeScript, integrado a uma API em Node.js utilizando PostgreSQL e Redis.
+
+### Stack
+
+- React
+- TypeScript
+- Node.js
+- PostgreSQL
+- Redis
+- Prisma
+
+### Funcionalidades
+
+- Dashboard financeiro
+- Controle de receitas e despesas
+- Autenticação JWT
+- Docker Compose
+- Testes automatizados
+
+Repositório
+
 https://github.com/CampiteliRafael/FinTrack
 
----
+## ShopSmart — Plataforma de E-commerce
 
-## 🛒 ShopSmart — Carrinho de E-commerce
+Aplicação desenvolvida em Next.js integrada a uma API Express utilizando MongoDB.
 
-Aplicação Full Stack simulando um fluxo de compras.
+### Stack
 
-**Stack**
+- Next.js
+- TypeScript
+- Express
+- MongoDB
 
-* Next.js
-* TypeScript
-* Express
-* MongoDB
+### Funcionalidades
 
-**Destaques**
+- Login
+- Autenticação
+- Carrinho persistente
+- CRUD de produtos
+- Validação de dados
 
-* Autenticação
-* Carrinho persistente
-* CRUD de produtos
-* Validação de dados
+Repositório
 
-➡️ **Repositório:**
 https://github.com/CampiteliRafael/cartEcommerce
 
----
-
-## 🎙️ API Podcasts
+## API Podcasts
 
 API REST para gerenciamento de podcasts.
 
-**Stack**
+### Stack
 
-* Node.js
-* TypeScript
-* PostgreSQL
-* TypeORM
+- Node.js
+- TypeScript
+- PostgreSQL
+- TypeORM
 
-**Destaques**
+### Funcionalidades
 
-* Upload de arquivos
-* Integração com AWS S3
-* Arquitetura em camadas
-* Testes automatizados
+- Upload de arquivos
+- AWS S3
+- Arquitetura em Camadas
+- Swagger
+- Testes automatizados
 
-➡️ **Repositório:**
+Repositório
+
 https://github.com/CampiteliRafael/api_podcasts
 
----
+## Feedback System
 
-## 💬 Feedback System
+Aplicação React integrada a uma API Node.js para gerenciamento de feedbacks.
 
-Sistema Full Stack para coleta e gerenciamento de feedbacks.
+### Stack
 
-**Stack**
+- React
+- Node.js
+- MongoDB
 
-* React
-* Node.js
-* MongoDB
+### Funcionalidades
 
-**Destaques**
+- Fluxo completo de feedback
+- RBAC
+- Testes Unitários
+- Testes de Integração
 
-* Fluxo completo de feedback
-* TDD
-* Testes unitários e integração
-* RBAC
+Repositório
 
-➡️ **Repositório:**
 https://github.com/CampiteliRafael/projetofeedbacks
 
----
+# Atualmente estudando
 
-# 🎯 Objetivos de aprendizado
+- React Avançado
+- Next.js
+- TypeScript
+- Performance Web
+- Acessibilidade
+- Arquitetura Front-end
+- Design Patterns
+- Arquitetura de Software
+- Node.js
+- Arquitetura de APIs
+- Docker
+- Testes Automatizados
+- CI/CD
 
-Atualmente tenho focado meus estudos em:
 
-* Arquitetura de Software
-* Desenvolvimento Backend
-* Desenvolvimento Frontend
-* Microsserviços
-* Mensageria
-* Docker
-* Testes Automatizados
-* Observabilidade
-* Cloud Computing
+# 🎯 Objetivos
 
----
+- Evoluir como Desenvolvedor Front-end
+- Criar aplicações escaláveis
+- Dominar arquitetura Front-end
+- Aprimorar experiência com Node.js
+- Contribuir em projetos open source
+- Trabalhar em produtos digitais de grande escala
+
 
 # 📫 Contato
 
@@ -203,11 +227,3 @@ Atualmente tenho focado meus estudos em:
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=CampiteliRafael\&style=flat-square)
-
-*"First, solve the problem. Then, write the code."*
-— John Johnson
-
-</div>
