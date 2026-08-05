@@ -2,24 +2,24 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=Desenvolvedor+Full+Stack+Júnior;TypeScript+%7C+React+%7C+Node.js;Sempre+aprendendo+e+construindo)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=Desenvolvedor+Front+End+Júnior;TypeScript+%7C+React+%7C+Node.js;Sempre+aprendendo+e+construindo)
 
 </div>
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Full Stack Júnior** com foco em **TypeScript**, **React** e **Node.js**.
+Sou Desenvolvedor Front-end especializado em React, Next.js e TypeScript, com experiência prática no desenvolvimento Back-end utilizando Node.js, PostgreSQL e MongoDB.
 
-Gosto de desenvolver aplicações bem estruturadas, fáceis de manter e seguindo boas práticas de engenharia de software. Tenho interesse especial por desenvolvimento de APIs, arquitetura de software, testes automatizados e construção de aplicações full stack.
+Gosto de desenvolver aplicações bem estruturadas, fáceis de manter e seguindo boas práticas de engenharia de software. Tenho interesse especial na construção de interfaces modernas, acessíveis e performáticas, sem abrir mão de uma sólida compreensão de arquitetura de software e desenvolvimento back-end. Essa visão full stack me permite desenvolver aplicações completas e colaborar de forma eficiente entre diferentes camadas de um produto.
 
 Atualmente venho aprofundando meus conhecimentos em **Docker**, **bancos de dados SQL e NoSQL**, **autenticação**, **mensageria**, **arquitetura de software** e **boas práticas de desenvolvimento**, aplicando esses conceitos em projetos próprios.
 
 ### 📚 Atualmente
 
-* 🔨 Desenvolvendo projetos Full Stack para fortalecer meu portfólio
-* 📖 Estudando Arquitetura de Software, Design Patterns e TDD
-* 🧪 Praticando testes automatizados e boas práticas de desenvolvimento
-* ☁️ Evoluindo em Docker, mensageria e conceitos de DevOps
+Desenvolvendo aplicações Front-end completas utilizando React, Next.js e TypeScript
+Estudando Performance Web, Acessibilidade (WCAG) e boas práticas de UX
+Evoluindo na integração com APIs REST e arquitetura Front-end
+Construindo projetos Full Stack para aprofundar conhecimentos em Node.js e bancos de dados
 
 ---
 
