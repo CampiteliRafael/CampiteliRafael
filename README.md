@@ -9,7 +9,7 @@ Desenvolvedor Front-end especializado em React, Next.js e TypeScript, com experi
 </p>
 
 
-# Sobre mim
+# 🚀 Sobre mim
 
 Sou apaixonado por desenvolvimento de software e pela construção de aplicações modernas que proporcionam uma excelente experiência ao usuário.
 
@@ -21,8 +21,9 @@ Além do Front-end, possuo experiência prática com desenvolvimento Back-end ut
 
 Tenho como objetivo evoluir continuamente como Engenheiro de Software, aplicando boas práticas como Clean Code, SOLID, Design Patterns, Arquitetura de Software e testes automatizados.
 
+---
 
-# Atualmente
+# 📚 Atualmente
 
 - 🚀 Desenvolvendo aplicações Front-end utilizando React, Next.js e TypeScript
 - 🎨 Aprimorando conhecimentos em Performance Web e Acessibilidade (WCAG)
@@ -31,10 +32,11 @@ Tenho como objetivo evoluir continuamente como Engenheiro de Software, aplicando
 - 🧪 Evoluindo em Testes Automatizados
 - 🐳 Aprimorando conhecimentos em Docker e CI/CD
 
+---
 
-# Stack Tecnológica
+# 💻 Stack Tecnológica
 
-## Front-end
+## 🎨 Front-end
 
 - React
 - Next.js
@@ -45,21 +47,27 @@ Tenho como objetivo evoluir continuamente como Engenheiro de Software, aplicando
 - Vite
 - Tailwind CSS
 
-## Back-end
+---
+
+## ⚙️ Back-end
 
 - Node.js
 - Express
 - REST APIs
 - JWT Authentication
 
-## Banco de Dados
+---
+
+## 🗄️ Banco de Dados
 
 - PostgreSQL
 - MongoDB
 - Redis
 - Prisma ORM
 
-## Ferramentas
+---
+
+## 🛠️ Ferramentas
 
 - Git
 - GitHub
@@ -68,14 +76,18 @@ Tenho como objetivo evoluir continuamente como Engenheiro de Software, aplicando
 - Postman
 - VS Code
 
-## Testes
+---
+
+## ✅ Testes
 
 - Jest
 - Vitest
 - React Testing Library
-  
 
-# O que gosto de desenvolver
+---
+
+
+# 📈 O que gosto de desenvolver
 
 ✔ Dashboards
 
@@ -95,10 +107,11 @@ Tenho como objetivo evoluir continuamente como Engenheiro de Software, aplicando
 
 ✔ Integração Front-end & Back-end
 
+---
 
-# Projetos em Destaque
+# 🌟 Projetos em Destaque
 
-## FinTrack — Sistema de Gestão Financeira
+## 💰 FinTrack — Sistema de Gestão Financeira
 
 Sistema de gestão financeira desenvolvido com React e TypeScript, integrado a uma API em Node.js utilizando PostgreSQL e Redis.
 
@@ -119,11 +132,13 @@ Sistema de gestão financeira desenvolvido com React e TypeScript, integrado a u
 - Docker Compose
 - Testes automatizados
 
-Repositório
+🔗 Repositório
 
 https://github.com/CampiteliRafael/FinTrack
 
-## ShopSmart — Plataforma de E-commerce
+---
+
+## 🛒 ShopSmart — Plataforma de E-commerce
 
 Aplicação desenvolvida em Next.js integrada a uma API Express utilizando MongoDB.
 
@@ -142,11 +157,13 @@ Aplicação desenvolvida em Next.js integrada a uma API Express utilizando Mongo
 - CRUD de produtos
 - Validação de dados
 
-Repositório
+🔗 Repositório
 
 https://github.com/CampiteliRafael/cartEcommerce
 
-## API Podcasts
+---
+
+## 🎙️ API Podcasts
 
 API REST para gerenciamento de podcasts.
 
@@ -165,11 +182,13 @@ API REST para gerenciamento de podcasts.
 - Swagger
 - Testes automatizados
 
-Repositório
+🔗 Repositório
 
 https://github.com/CampiteliRafael/api_podcasts
 
-## Feedback System
+---
+
+## 💬 Feedback System
 
 Aplicação React integrada a uma API Node.js para gerenciamento de feedbacks.
 
@@ -186,11 +205,13 @@ Aplicação React integrada a uma API Node.js para gerenciamento de feedbacks.
 - Testes Unitários
 - Testes de Integração
 
-Repositório
+🔗 Repositório
 
 https://github.com/CampiteliRafael/projetofeedbacks
 
-# Atualmente estudando
+---
+
+# 🎯 Atualmente estudando
 
 - React Avançado
 - Next.js
@@ -206,6 +227,7 @@ https://github.com/CampiteliRafael/projetofeedbacks
 - Testes Automatizados
 - CI/CD
 
+---
 
 # 🎯 Objetivos
 
@@ -215,6 +237,8 @@ https://github.com/CampiteliRafael/projetofeedbacks
 - Aprimorar experiência com Node.js
 - Contribuir em projetos open source
 - Trabalhar em produtos digitais de grande escala
+
+---
 
 
 # 📫 Contato
