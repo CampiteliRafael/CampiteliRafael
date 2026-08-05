@@ -12,8 +12,6 @@ Sou Desenvolvedor Front-end especializado em React, Next.js e TypeScript, com ex
 
 Gosto de desenvolver aplicações bem estruturadas, fáceis de manter e seguindo boas práticas de engenharia de software. Tenho interesse especial na construção de interfaces modernas, acessíveis e performáticas, sem abrir mão de uma sólida compreensão de arquitetura de software e desenvolvimento back-end. Essa visão full stack me permite desenvolver aplicações completas e colaborar de forma eficiente entre diferentes camadas de um produto.
 
-Atualmente venho aprofundando meus conhecimentos em **Docker**, **bancos de dados SQL e NoSQL**, **autenticação**, **mensageria**, **arquitetura de software** e **boas práticas de desenvolvimento**, aplicando esses conceitos em projetos próprios.
-
 ### 📚 Atualmente
 
 Desenvolvendo aplicações Front-end completas utilizando React, Next.js e TypeScript
