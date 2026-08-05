@@ -52,6 +52,8 @@ Atualmente continuo evoluindo minhas habilidades por meio de projetos práticos,
 ##### Postman
 ##### Swagger
 ##### Jira
+##### Claude Code
+##### Copilot
 
 ### ✅ Testes
 
