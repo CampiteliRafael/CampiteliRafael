@@ -1,121 +1,72 @@
-# 👋 Olá! Eu sou Rafael Campiteli
+## 👋 Olá! Eu sou Rafael Campiteli
 
-<div align="center">
+### 🚀 Sobre mim
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=Desenvolvedor+Front+End;TypeScript+%7C+React+%7C+Next.js;Sempre+aprendendo+e+construindo)
+Sou **Desenvolvedor Front-end** especializado em **React**, **Next.js** e **TypeScript**, com experiência prática no desenvolvimento **Back-end** utilizando **Node.js**, **PostgreSQL** e **MongoDB**.
 
-<p align="left">
-Desenvolvedor Front-end especializado em React, Next.js e TypeScript, com experiência prática no desenvolvimento Back-end utilizando Node.js, PostgreSQL e MongoDB.
-</p>
+Tenho paixão por criar interfaces modernas, responsivas e performáticas, sempre priorizando código limpo, reutilizável e de fácil manutenção. Minha experiência com desenvolvimento Full Stack me permite compreender todo o ciclo de uma aplicação, facilitando a integração entre Front-end e Back-end e contribuindo para soluções mais completas.
 
+Atualmente continuo evoluindo minhas habilidades por meio de projetos práticos, explorando novas tecnologias e aplicando boas práticas de Engenharia de Software.
 
-# 🚀 Sobre mim
+### 📚 Atualmente
 
-Sou apaixonado por desenvolvimento de software e pela construção de aplicações modernas que proporcionam uma excelente experiência ao usuário.
-
-Meu principal foco está no desenvolvimento Front-end utilizando React, Next.js e TypeScript, criando interfaces performáticas, responsivas e escaláveis.
-
-Durante minha experiência profissional participei do desenvolvimento e manutenção de aplicações corporativas, implementando novas funcionalidades, integrando APIs REST, realizando correções de bugs e contribuindo para melhorias de performance em ambiente ágil (Scrum).
-
-Além do Front-end, possuo experiência prática com desenvolvimento Back-end utilizando Node.js, Express, PostgreSQL e MongoDB, permitindo compreender todo o fluxo de uma aplicação e colaborar em diferentes camadas do sistema.
-
-Tenho como objetivo evoluir continuamente como Engenheiro de Software, aplicando boas práticas como Clean Code, SOLID, Design Patterns, Arquitetura de Software e testes automatizados.
-
----
-
-# 📚 Atualmente
-
-- 🚀 Desenvolvendo aplicações Front-end utilizando React, Next.js e TypeScript
-- 🎨 Aprimorando conhecimentos em Performance Web e Acessibilidade (WCAG)
-- 🔗 Construindo integrações com APIs REST
-- ⚙️ Desenvolvendo projetos Full Stack para aprofundar conhecimentos em arquitetura de software
-- 🧪 Evoluindo em Testes Automatizados
-- 🐳 Aprimorando conhecimentos em Docker e CI/CD
+- 🚀 Desenvolvendo aplicações Front-end com React, Next.js e TypeScript
+- 🎨 Estudando Performance Web, Acessibilidade (WCAG) e boas práticas de UX
+- 🔗 Evoluindo na integração com APIs REST e arquitetura Front-end
+- ⚙️ Construindo projetos Full Stack para aprofundar conhecimentos em Node.js, bancos de dados e arquitetura de software
+- 🧪 Praticando Testes Automatizados
+- 🐳 Evoluindo em Docker e CI/CD
 
 ---
 
 # 💻 Stack Tecnológica
 
-## 🎨 Front-end
+### 🎨 Front-end
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Vite
-- Tailwind CSS
+##### React
+##### Next.js
+##### TypeScript
+##### JavaScript
+##### HTML
+##### CSS
+##### Vite
 
----
+### ⚙️ Back-end
 
-## ⚙️ Back-end
+##### Node.js
+##### Express
+##### REST APIs
 
-- Node.js
-- Express
-- REST APIs
-- JWT Authentication
+### 🗄️ Banco de Dados
 
----
+##### PostgreSQL
+##### MongoDB
+##### Redis
 
-## 🗄️ Banco de Dados
+### 🛠️ Ferramentas & DevOps
 
-- PostgreSQL
-- MongoDB
-- Redis
-- Prisma ORM
+##### Git
+##### GitHub
+##### Docker
+##### Docker Compose
+##### Postman
 
----
+### ✅ Testes
 
-## 🛠️ Ferramentas
-
-- Git
-- GitHub
-- Docker
-- Docker Compose
-- Postman
-- VS Code
+##### Jest
+##### Vitest
+##### React Testing Library
 
 ---
 
-## ✅ Testes
-
-- Jest
-- Vitest
-- React Testing Library
-
----
-
-
-# 📈 O que gosto de desenvolver
-
-✔ Dashboards
-
-✔ Sistemas SaaS
-
-✔ Plataformas Administrativas
-
-✔ Sistemas Financeiros
-
-✔ E-commerce
-
-✔ Painéis Administrativos
-
-✔ APIs REST
-
-✔ Sistemas de Autenticação
-
-✔ Integração Front-end & Back-end
-
----
 
 # 🌟 Projetos em Destaque
 
 ## 💰 FinTrack — Sistema de Gestão Financeira
 
-Sistema de gestão financeira desenvolvido com React e TypeScript, integrado a uma API em Node.js utilizando PostgreSQL e Redis.
+Sistema de gestão financeira desenvolvido com **React** e **TypeScript**, integrado a uma API em **Node.js**, **PostgreSQL** e **Redis**.
 
-### Stack
+**Stack**
 
 - React
 - TypeScript
@@ -124,15 +75,15 @@ Sistema de gestão financeira desenvolvido com React e TypeScript, integrado a u
 - Redis
 - Prisma
 
-### Funcionalidades
+**Destaques**
 
-- Dashboard financeiro
-- Controle de receitas e despesas
-- Autenticação JWT
-- Docker Compose
-- Testes automatizados
+- 📊 Dashboard financeiro
+- 💰 Controle de receitas e despesas
+- 🔐 Autenticação JWT
+- 🐳 Docker Compose
+- ✅ Testes automatizados
 
-🔗 Repositório
+➡️ **Repositório:**
 
 https://github.com/CampiteliRafael/FinTrack
 
@@ -140,24 +91,23 @@ https://github.com/CampiteliRafael/FinTrack
 
 ## 🛒 ShopSmart — Plataforma de E-commerce
 
-Aplicação desenvolvida em Next.js integrada a uma API Express utilizando MongoDB.
+Aplicação web desenvolvida com **Next.js**, integrada a uma API em **Express** utilizando **MongoDB**.
 
-### Stack
+**Stack**
 
 - Next.js
 - TypeScript
 - Express
 - MongoDB
 
-### Funcionalidades
+**Destaques**
 
-- Login
-- Autenticação
-- Carrinho persistente
-- CRUD de produtos
-- Validação de dados
+- 🛒 Carrinho persistente
+- 🔐 Autenticação
+- 📦 CRUD de produtos
+- ✅ Validação de dados
 
-🔗 Repositório
+➡️ **Repositório:**
 
 https://github.com/CampiteliRafael/cartEcommerce
 
@@ -165,24 +115,23 @@ https://github.com/CampiteliRafael/cartEcommerce
 
 ## 🎙️ API Podcasts
 
-API REST para gerenciamento de podcasts.
+API REST desenvolvida em **Node.js** para gerenciamento de podcasts.
 
-### Stack
+**Stack**
 
 - Node.js
 - TypeScript
 - PostgreSQL
 - TypeORM
 
-### Funcionalidades
+**Destaques**
 
-- Upload de arquivos
-- AWS S3
-- Arquitetura em Camadas
-- Swagger
-- Testes automatizados
+- ☁️ Upload de arquivos
+- 📦 Integração com AWS S3
+- 🏗️ Arquitetura em camadas
+- ✅ Testes automatizados
 
-🔗 Repositório
+➡️ **Repositório:**
 
 https://github.com/CampiteliRafael/api_podcasts
 
@@ -190,37 +139,37 @@ https://github.com/CampiteliRafael/api_podcasts
 
 ## 💬 Feedback System
 
-Aplicação React integrada a uma API Node.js para gerenciamento de feedbacks.
+Aplicação **React** integrada a uma API **Node.js** para gerenciamento de feedbacks.
 
-### Stack
+**Stack**
 
 - React
 - Node.js
 - MongoDB
 
-### Funcionalidades
+**Destaques**
 
-- Fluxo completo de feedback
-- RBAC
-- Testes Unitários
-- Testes de Integração
+- 💬 Fluxo completo de feedback
+- 🔐 Controle de permissões (RBAC)
+- 🧪 Testes unitários
+- 🔄 Testes de integração
 
-🔗 Repositório
+➡️ **Repositório:**
 
 https://github.com/CampiteliRafael/projetofeedbacks
 
 ---
 
-# 🎯 Atualmente estudando
+# 🎯 Objetivos de aprendizado
+
+Atualmente estou aprofundando meus conhecimentos em:
 
 - React Avançado
 - Next.js
-- TypeScript
 - Performance Web
-- Acessibilidade
+- Acessibilidade (WCAG)
 - Arquitetura Front-end
 - Design Patterns
-- Arquitetura de Software
 - Node.js
 - Arquitetura de APIs
 - Docker
@@ -229,17 +178,19 @@ https://github.com/CampiteliRafael/projetofeedbacks
 
 ---
 
-# 🎯 Objetivos
+# 💡 Áreas de Interesse
 
-- Evoluir como Desenvolvedor Front-end
-- Criar aplicações escaláveis
-- Dominar arquitetura Front-end
-- Aprimorar experiência com Node.js
-- Contribuir em projetos open source
-- Trabalhar em produtos digitais de grande escala
+- 🎨 Desenvolvimento Front-end
+- ⚛️ React & Next.js
+- 📱 Interfaces Responsivas
+- 🚀 Performance Web
+- 🏗️ Arquitetura de Software
+- 🔗 Integração Front-end & Back-end
+- 🧪 Testes Automatizados
+- 🐳 Docker
+- ☁️ Cloud Computing
 
 ---
-
 
 # 📫 Contato
 
