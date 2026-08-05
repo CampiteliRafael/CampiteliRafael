@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=500\&lines=Desenvolvedor+Front+End;TypeScript+%7C+React+%7C+Node.js;Sempre+aprendendo+e+construindo)
 
-# Olá! Eu sou Rafael Campiteli
-
 <p align="left">
 Desenvolvedor Front-end especializado em React, Next.js e TypeScript, com experiência prática no desenvolvimento Back-end utilizando Node.js, PostgreSQL e MongoDB.
 </p>
