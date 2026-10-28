@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim
 
-Sou **Desenvolvedor Front-end** | **React**, **Next.js** e **TypeScript** |, com experiência prática no desenvolvimento **Back-end** utilizando **Node.js**, **PostgreSQL** e **MongoDB**.
+Sou **Desenvolvedor Front-end** | **React**, **Next.js** e **TypeScript** | com experiência prática no desenvolvimento **Back-end** utilizando **Node.js**, **PostgreSQL** e **MongoDB**.
 
 Tenho paixão por criar interfaces modernas, responsivas e performáticas, sempre priorizando código limpo, reutilizável e de fácil manutenção. Minha experiência com desenvolvimento Full Stack me permite compreender todo o ciclo de uma aplicação, facilitando a integração entre Front-end e Back-end e contribuindo para soluções mais completas.
 
