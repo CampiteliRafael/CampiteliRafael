@@ -1,6 +1,6 @@
 ## Rafael Campiteli
 
-### Desenvolvedor Full Stack Web/Mobile Júnior
+### Desenvolvedor Full Stack Web & Mobile Júnior
 
 **React · TypeScript · Node.js · Express · APIs REST · SQL e NoSQL**
 
