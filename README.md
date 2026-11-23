@@ -4,7 +4,7 @@
 
 **React · TypeScript · Node.js · Express · APIs REST · SQL e NoSQL**
 
-Desenvolvo aplicações web/mobile conectando interfaces, serviços e dados. No front-end, trabalho com React, Next.js e TypeScript. No back-end, construo APIs e serviços com Node.js e Express, integrados a bancos de dados relacionais e não relacionais. Também tenho experiência com React Native e Expo.
+Desenvolvo aplicações web & mobile conectando interfaces, serviços e dados. No front-end, trabalho com React, Next.js e TypeScript. No back-end, construo APIs e serviços com Node.js e Express, integrados a bancos de dados relacionais e não relacionais. Também tenho experiência com React Native e Expo.
 
 Transformo requisitos em funcionalidades, integro aplicações a APIs e bancos de dados e testo fluxos para manter o software seguro e fácil de evoluir.
 
